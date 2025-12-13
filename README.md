@@ -1,77 +1,72 @@
-# 🌐 Portafolio – Ciberseguridad y Geopolítica  
-**Metztli Alonso**
+# 🌐 Cybersecurity Global Monitor
 
-Este proyecto es una página web personal creada como **portafolio profesional**, con el objetivo de integrar **Relaciones Internacionales, ciberseguridad y tecnología**, así como aprender a usar los conceptos básicos de programación y desarroollo web, está página la hice en dev.f con Becalos.
-El sitio presenta análisis geopolíticos, proyectos académicos y habilidades técnicas, enfocados en cómo la tecnología redefine la seguridad, el poder y el comercio internacional.
+Proyecto web introductorio que combina **programación web**, **ciberseguridad** y **Relaciones Internacionales (RRII)**. Esta página tiene como objetivo mostrar, de manera clara y accesible, cómo los ciberataques impactan a distintos países y cuáles son sus implicaciones geopolíticas y comerciales.
 
----
-
-## Objetivo del proyecto
-Construir un portafolio digital que funcione como:
-- Carta de presentación profesional  
-- Evidencia de capacidades analíticas en RRII  
-- Espacio para proyectos relacionados con ciberseguridad y geopolítica  
-- Apoyo para CV, LinkedIn, prácticas, becas o proyectos académicos  
+Este proyecto funciona como **portafolio personal / CV digital**, demostrando habilidades básicas en HTML, control de versiones con Git y publicación mediante GitHub Pages.
 
 ---
 
-## Enfoque temático
-El contenido del sitio se centra en:
-- Ciberseguridad y seguridad internacional  
-- Geopolítica tecnológica  
-- Inteligencia artificial y gobernanza global  
-- Infraestructura crítica y comercio internacional  
-- Análisis desde teorías de las Relaciones Internacionales  
+## 🎯 Objetivo del proyecto
+
+Crear una página web sencilla que:
+
+* Explique el fenómeno de la **ciberseguridad a nivel global**
+* Relacione los **ciberataques** con la **geopolítica y el comercio internacional**
+* Sirva como primer proyecto práctico de desarrollo web
 
 ---
 
-##  Estructura del sitio
-El portafolio está organizado en las siguientes secciones:
+## 🧩 Contenido de la página
 
-- **Home** – Presentación general y enfoque profesional  
-- **Sobre mí** – Perfil académico y áreas de interés  
-- **Análisis** – Artículos breves tipo *policy brief*  
-- **Proyectos** – Iniciativas académicas y técnicas (ej. CyberWatch Global)  
-- **Habilidades** – Competencias en RRII, tecnología e idiomas  
-- **CV** – Currículum descargable  
-- **Contacto** – Enlaces profesionales  
+La página incluye las siguientes secciones:
 
---- 
+* **Introducción**
+  Explicación general de qué es la ciberseguridad global y por qué es relevante hoy.
 
-## Tecnologías utilizadas
-- HTML
-- CSS  
-- Git & GitHub  
+* **Ciberataques globales**
+  Descripción de los principales tipos de ataques (ransomware, phishing, ataques a infraestructura crítica).
 
-*(El proyecto está pensado para crecer e integrar futuras herramientas como visualización de datos o APIs públicas.)*
+* **Países más vulnerables o atacados**
+  Análisis general de qué países suelen ser más afectados y por qué.
 
---- 
+* **Casos relevantes**
+  Ejemplos conocidos de ciberataques y sus consecuencias.
 
-## Público objetivo
-- Reclutadores  
-- Profesores e investigadores  
-- Instituciones académicas  
-- Think tanks  
-- Áreas de análisis político, tecnológico o internacional  
+* **Implicaciones para las RRII**
+  Relación entre ciberseguridad, geopolítica, seguridad nacional y comercio internacional.
+
+* **Sobre mí**
+  Breve presentación personal como estudiante de Relaciones Internacionales interesada en tecnología, ciberseguridad e inteligencia artificial.
 
 ---
 
-## Estado del proyecto
- **En desarrollo**  
-El portafolio se encuentra en constante actualización, incorporando nuevos análisis y proyectos conforme avanza mi formación académica y técnica.
+## 🛠️ Tecnologías utilizadas
+
+* **HTML** (estructura semántica)
+* **CSS** (estilos básicos)
+* **Git** (control de versiones)
+* **GitHub** (repositorio)
+* **GitHub Pages** (despliegue)
+
+---
+
+## 📌 Estado del proyecto
+
+🟢 Proyecto en desarrollo (nivel principiante).
+En futuras versiones se planea:
+
+* Integrar APIs públicas de ciberataques
+* Agregar visualizaciones de datos
+* Mejorar el diseño visual
 
 ---
 
 ## 👩‍💻 Autora
-**Metztli Alonso Pineda**  
-Estudiante de Relaciones Internacionales (UNAM)  
-Interesada en ciberseguridad, geopolítica tecnológica e inteligencia artificial.
 
-Contacto profesional:  
-- LinkedIn: *(https://www.linkedin.com/in/metztlialpineda/)*  
-- GitHub: *(https://github.com/MetztliAPineda/Pagina-Web/new/master?filename=README.md)*  
+**Metztli Alonso Pineda**
+Estudiante de Relaciones Internacionales interesada en ciberseguridad, inteligencia artificial y tecnología aplicada a la política internacional.
 
 ---
 
-## Licencia
-Este proyecto es de uso personal y académico.
+✨ *Este proyecto forma parte de mi proceso de aprendizaje en desarrollo web y tecnología a través en DEV.F y Becalos.*
+
