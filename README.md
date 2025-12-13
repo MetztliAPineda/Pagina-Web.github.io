@@ -1,7 +1,7 @@
 # 🌐 Portafolio – Ciberseguridad y Geopolítica  
 **Metztli Alonso**
 
-Este proyecto es una página web personal creada como **portafolio profesional**, con el objetivo de integrar **Relaciones Internacionales, ciberseguridad y tecnología**.  
+Este proyecto es una página web personal creada como **portafolio profesional**, con el objetivo de integrar **Relaciones Internacionales, ciberseguridad y tecnología**, así como aprender a usar los conceptos básicos de programación y desarroollo web, está página la hice en dev.f con Becalos.
 El sitio presenta análisis geopolíticos, proyectos académicos y habilidades técnicas, enfocados en cómo la tecnología redefine la seguridad, el poder y el comercio internacional.
 
 ---
@@ -39,9 +39,8 @@ El portafolio está organizado en las siguientes secciones:
 --- 
 
 ## Tecnologías utilizadas
-- HTML5  
-- CSS3  
-- JavaScript  
+- HTML
+- CSS  
 - Git & GitHub  
 
 *(El proyecto está pensado para crecer e integrar futuras herramientas como visualización de datos o APIs públicas.)*
