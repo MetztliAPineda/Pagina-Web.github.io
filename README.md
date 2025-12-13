@@ -38,6 +38,16 @@ El portafolio está organizado en las siguientes secciones:
 
 --- 
 
+## Tecnologías utilizadas
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git & GitHub  
+
+*(El proyecto está pensado para crecer e integrar futuras herramientas como visualización de datos o APIs públicas.)*
+
+--- 
+
 ## Público objetivo
 - Reclutadores  
 - Profesores e investigadores  
