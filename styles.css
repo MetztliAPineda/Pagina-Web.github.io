@@ -118,7 +118,11 @@ ul {
   border-left: 4px solid #2050af;
   border-radius: 6px;
 }
-
+.grid-ataques {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
 /* ===== IMÁGENES ===== */
 img {
     max-width: 100%;
@@ -137,6 +141,19 @@ img {
     justify-content: center;
     flex-wrap: wrap;
   }
+  .grid-paises {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    justify-items: center;
+  }
+  
+  .grid-paises img {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+  }
+  
   
 /* ===== SOBRE MÍ ===== */
 #sobre-mi {
