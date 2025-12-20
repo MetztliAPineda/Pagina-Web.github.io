@@ -1,7 +1,7 @@
-/* ===== RESET BÁSICO ===== */
+
 * {
-    margin: 2;
-    padding: 2;
+    margin: 2px;
+    padding: 2px;
     box-sizing: border-box;
   }
   
@@ -14,6 +14,12 @@
   }
   /* ===== HEADER ===== */
 header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+
     background-color: #2050af;
     color: white;
     padding: 20px;
@@ -25,7 +31,7 @@ header {
   /* Título principal */
   header h1 {
     font-size: 1.8rem;
-    margin-bottom: 5px;
+    margin-bottom: 5px;x
   }
   
   /* Subtítulo */
@@ -42,7 +48,7 @@ header {
   }
   
   .navbar li a {
-    color: white;
+    color: rgb(220, 208, 247);
     text-decoration: none;
     font-weight: bold;
     padding: 6px 10px;
@@ -61,7 +67,7 @@ main {
   }
 /* ===== SECCIONES ===== */
 section {
-    background-color: white;
+    background-color: rgb(190, 190, 255);
     padding: 25px;
     margin-bottom: 30px;
     border-radius: 8px;
