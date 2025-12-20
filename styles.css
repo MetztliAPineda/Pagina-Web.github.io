@@ -67,10 +67,6 @@ main {
   }
 /* ===== SECCIONES ===== */
 section {
-    display: flex;
-    gap: 20px;
-    align-items: center;
-
     background-color: rgb(190, 190, 255);
     padding: 25px;
     margin-bottom: 30px;
@@ -93,6 +89,12 @@ section {
   section p {
     margin-bottom: 15px;
   }
+/* Flexbox para la sección de introducción: texto + imagen */
+  .flex-section {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+  }
 /* ===== LISTAS ===== */
 ul {
     margin-left: 20px;
@@ -102,6 +104,21 @@ ul {
   li {
     margin-bottom: 10px;
   }
+
+/* Flexbox para la lista de ciberataques */
+.ataques {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.ataque {
+  background-color: #eef0ff;
+  padding: 15px;
+  border-left: 4px solid #2050af;
+  border-radius: 6px;
+}
+
 /* ===== IMÁGENES ===== */
 img {
     max-width: 100%;
@@ -110,6 +127,17 @@ img {
     margin: 15px auto;
     border-radius: 6px;
   }
+  #intro img {
+    max-width: 350px;
+  }
+  
+  .galeria {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
 /* ===== SOBRE MÍ ===== */
 #sobre-mi {
     background-color: #eef5fb;
@@ -132,4 +160,27 @@ footer {
   footer a:hover {
     text-decoration: underline;
   }
+
+  footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+/* ===== MEDIA QUERIES ===== */
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .flex-section {
+    flex-direction: column;
+  }
+
+  footer {
+    flex-direction: column;
+    gap: 10px;
+  }
+}  
               
